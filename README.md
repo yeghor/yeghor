@@ -3,7 +3,7 @@
 `Kyiv, Ukraine`
 
 I'm a junior **fullstack developer** with strong focus on building **backend**.
-All my are projects built from scratch. Focusing on clean architecture and simple code.
+All my projects are built from scratch. Focusing on clean architecture and simple code.
 
 To understand my coding style, check out my [Social-Network repository](https://github.com/yeghor/SocialNetwork.git).
 
