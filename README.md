@@ -10,7 +10,6 @@ To understand my coding style, check out my [Social-Network repository](https://
 _Fun fact: I'm a runner, and finished a half-marathon_
 
 ### Stack
-Languages, tools, frameworks:
 <div style="display:flex; gap:10px; align-items:center;">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -29,15 +28,31 @@ Languages, tools, frameworks:
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 </div>
 
+---
+
+**Languages:**
+- Python 3
+- JavaScript (ES6+)
+
+**Frameworks & Libraries:**
+- Python: FastAPI, Django & Django ORM (Base level), SQLAlchemy, Pydantic, Pytest, Redis, Botocore / Aiobotocore
+- JavaScript: React (REST API with fetch)
+
+**Tools & Platforms:**
+- Git & GitHub (Actions — Base level)
+- Docker / Docker Compose
+- PostgreSQL
+- Postman
+- AWS
+- ChromaDB
+
 ### More About Me
 
-Currently working on a [Social Network project](https://github.com/yeghor/SocialNetwork.git). I want to grow this project to a fully working application. Now implementing frontend and upgrading backend architecture.
-Also working on my portfolid website - stau tuned.
+Currently working on a [Social Network project](https://github.com/yeghor/SocialNetwork.git). I want to grow this project to a fully working application. Currently implementing frontend and upgrading backend architecture.
+Also working on my portfolid website - stay tuned.
 
-As I build project architecture - I always do my best. For example if I see relevant technology that fits my project - I implement it. Also I never leave work undone.
-
-I love asynchronous code. Whenever it's possible - I always build my services fully async.
-
+As I build project architecture - I always do my best and follow **SOLID** whenever it's possible. For example if I see relevant technology that fits my project - I implement it. Also I never leave work undone.
+I love asynchronous code. Whenever it's possible, I build my services fully async.
 I also always use Docker in my projects – it helps me keep environments consistent, simplify deployment, and focus on writing code instead of fighting with dependencies.
 
 Always up to learn new technologies and collaborate on projects.
@@ -46,7 +61,7 @@ Always up to learn new technologies and collaborate on projects.
 - [Social Network](https://github.com/yeghor/SocialNetwork.git) - Twitter like fullstack web application
 - [Habit Tracker](https://github.com/yeghor/Fullstack-Habit-Tracker-React-fastAPI) - My first fullstack web application for tracking habits
 - [Linked list](https://github.com/yeghor/Linked-List) data structure implementation on python
-- [Hash Table](https://github.com/yeghor/Hash-Table-With-Dynamic-Resizing) data strucuture implementation with dynamic resizing to reduce the chance of node collisions
+- [Hash Table](https://github.com/yeghor/Hash-Table-With-Dynamic-Resizing) data structure implementation with dynamic resizing to reduce the chance of node collisions
 - [Movie Recommender](https://github.com/yeghor/Movie-Recommender) - Django web movie recommendation system using ChromaDB
 
 
