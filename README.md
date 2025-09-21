@@ -51,7 +51,7 @@ _Fun fact: I'm a runner, and finished a half-marathon_
 Currently working on a [Social Network project](https://github.com/yeghor/SocialNetwork.git). I want to grow this project to a fully working application. Currently implementing frontend and upgrading backend architecture.
 Also working on my portfolid website - stay tuned.
 
-As I build project architecture - I always do my best and follow **SOLID** whenever it's possible. For example if I see relevant technology that fits my project - I implement it. Also I never leave work undone.
+As I build project architecture - I always do my best and follow **SOLID** whenever it and makes sense. For example if I see relevant technology that fits my project - I implement it. Also I never leave work undone.
 I love asynchronous code. Whenever it's possible, I build my services fully async.
 I also always use Docker in my projects – it helps me keep environments consistent, simplify deployment, and focus on writing code instead of fighting with dependencies.
 
