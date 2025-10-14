@@ -65,7 +65,7 @@ Always up to learn new technologies and collaborate on projects.
 - [Hash Table](https://github.com/yeghor/Hash-Table-With-Dynamic-Resizing) data structure implementation with dynamic resizing to reduce the chance of node collisions
 - [Movie Recommender](https://github.com/yeghor/Movie-Recommender) - Django web movie recommendation system using ChromaDB
 
-
+[My LeetCode profile](https://leetcode.com/u/YehorRomanov/)
 
 ### **Reach me:**
 - **@Yehorromanov**
