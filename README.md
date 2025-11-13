@@ -3,11 +3,11 @@
 `Kyiv, Ukraine`
 
 I'm a junior **fullstack developer** with strong focus on building **backend**.
-All my projects are built from scratch. Focusing on clean architecture and simple code.
+All my projects are built from scratch. Focusing on clean architecture, simple code.
 
 To understand my coding style, check out my [Social-Network repository](https://github.com/yeghor/SocialNetwork.git).
 
-_Fun fact: I'm a runner, and finished a half-marathon_
+_Fun fact: I'm a runner, and finished a half-marathon under 2:12_
 
 ### Stack
 <div style="display:flex; gap:10px; align-items:center;">
@@ -50,7 +50,7 @@ _Fun fact: I'm a runner, and finished a half-marathon_
 ### More About Me
 
 Currently working on a [Social Network project](https://github.com/yeghor/SocialNetwork.git). I want to grow this project to a fully working application. Currently implementing frontend and upgrading backend architecture.
-Also working on my portfolid website - stay tuned.
+Also working on my portfolio website - stay tuned.
 
 As I build project architecture - I always do my best and follow **SOLID** whenever it makes sense. For example if I see relevant technology that fits my project - I implement it. Also I never leave work undone.
 I love asynchronous code. Whenever it's possible, I build my services fully async.
@@ -68,7 +68,7 @@ Always up to learn new technologies and collaborate on projects.
 [My LeetCode profile](https://leetcode.com/u/YehorRomanov/)
 
 ### **Reach me:**
-- **@Yehorromanov**
+- Telegram - **@Yehorromanov**
 - Gmail - **yeghor.romanov@gmail.com**
 - Discord - **42_____**
 
