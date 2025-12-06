@@ -14,6 +14,7 @@ _Fun fact: I'm a runner, and finished a half-marathon under 2:12_
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -52,7 +53,8 @@ _Fun fact: I'm a runner, and finished a half-marathon under 2:12_
 ### More About Me
 
 Currently working on a [Social Network project](https://github.com/yeghor/SocialNetwork.git). I want to grow this project to a fully working application. Currently implementing frontend and upgrading backend architecture.
-Also working on my portfolio website - stay tuned.
+
+Also learning Machine Learning from a book Hands On ML. Link to repository with my notes - [Learning Machine Learning](https://github.com/yeghor/Learning-Machine-Learning.git)
 
 As I build project architecture - I always do my best and follow **SOLID** whenever it makes sense. For example if I see relevant technology that fits my project - I implement it. Also I never leave work undone.
 I love asynchronous code. Whenever it's possible, I build my services fully async.
@@ -76,19 +78,4 @@ Always up to learn new technologies and collaborate on projects.
 
 ---
 
-**42 - Is the Answer**
-
-<!--
-**yeghor/yeghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **42 - Is the Answer**
