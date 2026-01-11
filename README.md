@@ -15,6 +15,7 @@ _Fun fact: I'm a runner, and finished a half-marathon under 2:12_
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />        
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -38,13 +39,14 @@ _Fun fact: I'm a runner, and finished a half-marathon under 2:12_
 - JavaScript/Typescript (ES6+)
 
 **Frameworks & Libraries:**
-- Python: FastAPI, Django & Django ORM (Base level), SQLAlchemy, Pydantic, Pytest, Redis, Botocore / Aiobotocore
+- Python: FastAPI, Django & Django ORM (Base level), SQLAlchemy, Pydantic, Pytest, Redis, Botocore / Aiobotocore, SKLearn
 - JavaScript: React (REST API with fetch)
 
 **Tools & Platforms:**
 - Git & GitHub (Actions — Base level)
 - Docker / Docker Compose
 - PostgreSQL
+- TailwindCSS
 - Postman
 - Jupyter Notebook
 - AWS
